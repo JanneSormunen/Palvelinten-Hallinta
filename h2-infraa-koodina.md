@@ -9,7 +9,7 @@
 
 ## Hei infrakoodi
 
--	Aloitan tekemällä kansion /srv/salt/hello ”Tero Karvisen: Hello Salt Infra-as-code” mukaan,  ja siirryn cd komennon kautta hakemistossa kansion sisään.
+-	Aloitan tekemällä kansion /srv/salt/hello Tero Karvisen: Hello Salt Infra-as-code mukaan,  ja siirryn cd komennon kautta hakemistossa kansion sisään.
 -	Kansion sisälle luon esimerkkitiedoston komennolla ”$ sudoedit /srv/salt/hello/init.sls ja tarkistan että se toimii saltin kautta:
   
   <img width="1039" height="653" alt="image" src="https://github.com/user-attachments/assets/1de44e97-7752-4154-b39e-d6e7a0296e64" />

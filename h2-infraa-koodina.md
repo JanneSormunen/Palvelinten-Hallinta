@@ -35,23 +35,23 @@ Käytin Rules of YAML (Saltproject.io) miten kirjoittaa komennot ja tekoälyä a
   <img width="958" height="334" alt="image" src="https://github.com/user-attachments/assets/2ee4bc2a-1cdd-40e4-9295-8030fa293ddb" />
   
 -	Lisäsin top.sls tiedostoon vielä statefunctionin että voin suorittaa kaikki samaan aikaan.
--	Tämän jälkeen ajoin komennon sudo salt-call –local state.apply
+-	Tämän jälkeen ajoin komennon sudo salt-call –local state.apply ja katson meneekö kaikki muut oikein paitsi viimeiset kaksi joiden tarkoitus on mennä pieleen testin mukaan.
   
   <img width="1039" height="715" alt="image" src="https://github.com/user-attachments/assets/92f75782-12b4-4250-a734-8e267a7894e3" />
   <img width="1039" height="640" alt="image" src="https://github.com/user-attachments/assets/59c76c26-057a-4cba-9070-3ded7f110f4a" />
   <img width="1039" height="483" alt="image" src="https://github.com/user-attachments/assets/36d202d9-b366-47fa-874e-f90f2c4cabdf" />
 
--	Testi onnistui odotetulla tavalla koska ensimmäiset neljä onnistui, ne minulla on virtuaalikoneellani ja viimeiset kaksi epäonnistui koska minulla ei ole apachea ladattuna virtuaalikoneella ja cmd.runilla ei ollut määritelty mitä sen tulisi tehdä, joten se epäonnistui.
+-	Testi onnistui odotetulla tavalla koska ensimmäiset neljä onnistui, ne minulla on virtuaalikoneellani määriteltynä ja tiedostot löytyy kansioistani ja viimeiset kaksi epäonnistui koska minulla ei ole apachea ladattuna virtuaalikoneella ja cmd.runilla ei ollut määritelty mitä sen tulisi tehdä, joten se epäonnistui. Jos haluaa että tuo kyseinen cmd komento onnistuisi niin se pitäisi määrittää minkä viestin se tulostaa, minne se tulostaa, onko tmp fileä ym.
 -	Eli kaikki meni putkeen mitä pitikin.
 
 ## Lopputiivistelmä ja pohdinta
 
 -	Tein tässä tehtävässä kaikki kohdat, yhdistin siis vain kohdan c ja d suorittamalla esimerkit yhdessä ja samassa tiedostossa.
 Oppitunnin aikana sain tehtyä jo ensimmäisen /hello/init.sls tiedoston ja omalla ajalla suoritin loput tehtävät.
--	Minusta tällainen tapa koodata oli miellyttävä ja vaikeuksia ei ollut paljon. Kun tuli ongelmakohtia, jotka usein johtuivat kirjoitusvirheitä tarkistin vain komentoni ja sls tiedostot uudestaan tai jos tulisi muita virheitä niin googletan ja ctrl + f tai kysyn tekoälyltä mikä voisi olla pielessä koodini kanssa.
+-	Minusta tällainen tapa koodata oli miellyttävä ja vaikeuksia ei ollut paljon. Kun tuli ongelmakohtia, jotka kaikki johtuivat kirjoitusvirheitä (ei ollut tarvetta dokumentoida kirjoitusvirheitä) tarkistin vain komentoni ja sls tiedostot uudestaan tai jos tulisi muita virheitä niin googlettaisin ja ctrl + f tai kysyn tekoälyltä mikä voisi olla pielessä koodini kanssa.
 -	Päätin tehdä kaikki tilafunktiot samaan tiedostoon koska mielestäni se on nopeampaa ja editoiminen on helpompaa koska on vähemmän tiedostoja läpikäytävänä, jos tapahtuu virheitä mitä omassa testissäni ei tapahtunut.
 
-ja nyt sain tehtyä tehtävän myös Markdown tiedostossa :)
+Ja nyt sain tehtyä tehtävän myös Markdown tiedostossa :)
 
 ## Lähteet
 

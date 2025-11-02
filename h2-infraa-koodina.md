@@ -3,6 +3,10 @@
 -	Luin materiaalit: Karvinen 2014: Hello Salt Infra-as-Code, Salt contributors: Salt overview, ja Salt contributors: The top file.
 -	Näissä tulee esille, miten käytetään Salt-ohjelmaa luodakseen koodia, miten YAML kieltä kirjoitetaan ja mikä top file on ja miten sitä käytetään.
 
+-	Salt ohjelma käyttää sls tiedostoja suorittamalla koodia terminaalissa.
+-	YAML perustuu "key: value" pareihin.
+-	Top file ohjaa kaikkia muita sls-tiedostoja ja sen nimi on top koska se on hakemistossa ylimpänä.
+
 ## Hei infrakoodi
 
 -	Aloitan tekemällä kansion /srv/salt/hello ”Tero Karvisen: Hello Salt Infra-as-code” mukaan,  ja siirryn cd komennon kautta hakemistossa kansion sisään.

@@ -18,7 +18,7 @@
 
 ## Top tiedosto
 
--	Teen seuraavaksi top.sls kansioon /srv/salt/ samalla tavalla, kun tein aiemman tiedoston.
+-	Teen seuraavaksi top.sls kansioon /srv/salt/ samalla tavalla, kun tein aiemman tiedoston Salt contributionsin mukaan (Salt contributions: The top file).
   
   <img width="1039" height="728" alt="image" src="https://github.com/user-attachments/assets/8f46d3cd-9f45-4bf1-8547-9f9d756a7834" />
   

@@ -26,8 +26,19 @@
 - Teen Vagrantfilen
 
 <img width="583" height="37" alt="image" src="https://github.com/user-attachments/assets/e6d5709a-259e-4eb9-83a5-cf625395d8fe" />
-<img width="856" height="411" alt="image" src="https://github.com/user-attachments/assets/3f533dd9-f0b4-4581-8515-1cfcddff1361" />
+<img width="859" height="485" alt="image" src="https://github.com/user-attachments/assets/8a6796f9-e3bc-4e46-8491-5d4c934546dd" />
+
+
 
 - Testaan Vagrantfileä
 
+<img width="795" height="267" alt="image" src="https://github.com/user-attachments/assets/42803b73-d413-46f1-ad6d-6c3b2a0b78f3" />
+
+- Jotain ihmeellistä tapahtuu koska minulla on Vagrant version 2.7.3 minkä netin mukaan pitäisi supporttaa VirtualBox 7.2 versiota. Mutta error messagen mukaan se ei olisi näin.
+
+<img width="728" height="38" alt="image" src="https://github.com/user-attachments/assets/2ab1f3d6-9411-4ff9-8088-aaf51baff57d" />
+
+- Ja sen takia tämä ei myös toimi. Jos en saa Virtuaalikonetta auki Vagrantilla niin en oikein voi päästä tästä eteenpäin. Tästä lähtien kerron mitä tekisin jos pääsisin tästä eteenpäin. Internet ja tekoäly ei antanut minulle mitään järkevää.
+
+<img width="894" height="192" alt="image" src="https://github.com/user-attachments/assets/b82c6f5c-d3bb-4a73-870f-3a07e0d30542" />
 

@@ -34,7 +34,7 @@
 
 <img width="795" height="267" alt="image" src="https://github.com/user-attachments/assets/42803b73-d413-46f1-ad6d-6c3b2a0b78f3" />
 
-- Jotain ihmeellistä tapahtuu koska minulla on Vagrant version 2.7.3 minkä netin mukaan pitäisi supporttaa VirtualBox 7.2 versiota. Mutta error messagen mukaan se ei olisi näin.
+- Jotain ihmeellistä tapahtuu koska minulla on Vagrant version 2.7.3 minkä internetin mukaan pitäisi supporttaa VirtualBox 7.2 versiota. Mutta error messagen mukaan se ei olisi näin.
 
 ## Vagrant virtuaalikone
 
@@ -60,3 +60,19 @@
 
 
 ## Kokeile vähintään kahta tilaa verkon yli.
+
+- Ei ole paljoa mitä voin tässä osuudessa tehdä, luin Tero Karvinen 2023: Salt-Vagrant ohjeet läpi ja testasin pari komentoa, niistä ei tietenkään tullut mitään vastausta koska virtualbox temppuilee.
+
+<img width="772" height="516" alt="image" src="https://github.com/user-attachments/assets/68f30857-39cd-435c-971b-14e55d7f14d0" />
+
+## Lopputiiviste ja pohdinta.
+
+- Tämä oli ensimmäinen tehtävä mihin oikeasti jäin jumiin johonkin kohtaan useammaksi tunniksi. Menin varmuuden vuoksi testaamaan että olisiko ongelmana se että yritän väkisin pyörittää tätä Debian 13 Trixiellä, mutta latasin Debian 12 Bookwormin ja sama ongelma oli sielläkin että Vagrant ei osannut käyttää virtualboxia. Isänpäivänä loppui aika joten tuumailen mikä voisi olla ongelmana myöhemmin.
+- Harmittaa koska olisin mieluiten tehnyt tehtävän loppuun, jos jollakin olisi ideoita mikä tässä mättää niin voi jättää kommentin.
+
+## Lähteet:
+
+- Linuxiac 2025. How to Install Virtualbox on Debian 13 Trixie: https://linuxiac.com/how-to-install-virtualbox-on-debian-13-trixie
+- Karvinen 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant
+- Karvinen 2018. Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux: https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/?fromSearch=salt%20quickstart%20salt%20stack%20master%20and%20slave%20on%20ubuntu%20linux
+- Karvinen 2023. Salt Vagrant - automatically provision one master and two slaves: https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file

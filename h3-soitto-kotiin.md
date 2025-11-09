@@ -36,9 +36,27 @@
 
 - Jotain ihmeellistä tapahtuu koska minulla on Vagrant version 2.7.3 minkä netin mukaan pitäisi supporttaa VirtualBox 7.2 versiota. Mutta error messagen mukaan se ei olisi näin.
 
+## Vagrant virtuaalikone
+
 <img width="728" height="38" alt="image" src="https://github.com/user-attachments/assets/2ab1f3d6-9411-4ff9-8088-aaf51baff57d" />
 
 - Ja sen takia tämä ei myös toimi. Jos en saa Virtuaalikonetta auki Vagrantilla niin en oikein voi päästä tästä eteenpäin. Tästä lähtien kerron mitä tekisin jos pääsisin tästä eteenpäin. Internet ja tekoäly ei antanut minulle mitään järkevää.
 
 <img width="894" height="192" alt="image" src="https://github.com/user-attachments/assets/b82c6f5c-d3bb-4a73-870f-3a07e0d30542" />
 
+## Herra-orja verkossa.
+
+- Aloitan lataamalla micron.
+
+<img width="793" height="135" alt="image" src="https://github.com/user-attachments/assets/8fd6ad0c-3e1f-4bda-96e2-3ffc14d0d578" />
+
+- Jatkan tekemällä uuden directoryn micro filelle ja sen jälkeen $ micro Vagrantfile.
+
+<img width="867" height="761" alt="image" src="https://github.com/user-attachments/assets/3e9934e2-4def-4412-a6b7-82b40911a638" />
+
+- Tein micro Vagrantfilen mutta sama ongelma on edelleen.
+
+<img width="743" height="572" alt="image" src="https://github.com/user-attachments/assets/6e4de9dc-73e6-4d1a-8338-a0c6930c062d" />
+
+
+## Kokeile vähintään kahta tilaa verkon yli.

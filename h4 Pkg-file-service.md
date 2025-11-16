@@ -30,3 +30,19 @@
 - Minulla meni service running pieleen jotenkin, yritän korjata asian.
 - Ja virhe löytyi melkein heti, oli vain kirjoitusvirhe unohtui / ennen /etc/ssh/..
 <img width="763" height="647" alt="image" src="https://github.com/user-attachments/assets/3f384bb4-f73c-4c62-92f4-33d8404cc489" />
+
+- Seuraavaksi latasin netcatin
+<img width="1039" height="35" alt="image" src="https://github.com/user-attachments/assets/13192493-5ead-4d79-bddd-128bda667bea" />
+
+- Ja kirjoitan komennon tarkistaakseni että asiat toimii.
+<img width="872" height="43" alt="image" src="https://github.com/user-attachments/assets/52b56865-a954-4b4f-8bb7-990e3487398c" />
+
+- Ja tuli taas ongelma, yritän selvittää mistä tämä ongelma johtuu.
+<img width="532" height="58" alt="image" src="https://github.com/user-attachments/assets/691ccab8-5bca-4d0b-aad7-30bac854948d" />
+- Katson jos olisi palomuurista kiinni.
+<img width="873" height="97" alt="image" src="https://github.com/user-attachments/assets/a25bf3ac-3a61-4856-addf-7520a09d594a" />
+- Ei vieläkään.
+
+
+
+

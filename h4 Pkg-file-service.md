@@ -42,6 +42,10 @@
 - Katson jos olisi palomuurista kiinni.
 <img width="873" height="97" alt="image" src="https://github.com/user-attachments/assets/a25bf3ac-3a61-4856-addf-7520a09d594a" />
 - Ei vieläkään.
+<img width="905" height="95" alt="image" src="https://github.com/user-attachments/assets/960f355e-2ec5-442f-aae3-a5262bc61a48" />
+<img width="902" height="345" alt="image" src="https://github.com/user-attachments/assets/4beda463-0b39-4c5d-9fea-282c19a4d892" />
+
+
 
 
 

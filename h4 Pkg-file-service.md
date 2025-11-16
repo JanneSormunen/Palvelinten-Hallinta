@@ -8,7 +8,7 @@
 - GPU: Nvidia Geforce RTX 3070 8GB
 - Disc size 2TB
 
-## Tiivistelmä - Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port
+## Tiivistelmä - Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port.
 
 - Voit luoda suuren määrän daemoneita käyttämällä configurement management systeemiä.
 - Setuppaa master-slave ympäristö
@@ -39,11 +39,27 @@
 
 - Ja tuli taas ongelma, yritän selvittää mistä tämä ongelma johtuu.
 <img width="532" height="58" alt="image" src="https://github.com/user-attachments/assets/691ccab8-5bca-4d0b-aad7-30bac854948d" />
+
 - Katson jos olisi palomuurista kiinni.
 <img width="873" height="97" alt="image" src="https://github.com/user-attachments/assets/a25bf3ac-3a61-4856-addf-7520a09d594a" />
+
 - Ei vieläkään.
 <img width="905" height="95" alt="image" src="https://github.com/user-attachments/assets/960f355e-2ec5-442f-aae3-a5262bc61a48" />
 <img width="902" height="345" alt="image" src="https://github.com/user-attachments/assets/4beda463-0b39-4c5d-9fea-282c19a4d892" />
+
+- Yritän restarttaa sshd:n jos se tunnistaisi 8888 portin 22 portin sijasta.
+<img width="906" height="116" alt="image" src="https://github.com/user-attachments/assets/aa3182aa-03c5-4d38-9f6e-e0ea9141a99d" />
+
+- Ja se oli näköjään vain restartista kiinni.
+
+- Yritän nyt uudestaan katsoa kuunteleeko sshd.
+<img width="715" height="39" alt="image" src="https://github.com/user-attachments/assets/cbe860c7-4770-4831-b09c-5cf1b486c5be" />
+
+- Onnistui!
+
+## Lopputiiviste ja pohdinta.
+
+
 
 
 

@@ -31,7 +31,7 @@
 - Ja virhe löytyi melkein heti, oli vain kirjoitusvirhe unohtui / ennen /etc/ssh/..
 <img width="763" height="647" alt="image" src="https://github.com/user-attachments/assets/3f384bb4-f73c-4c62-92f4-33d8404cc489" />
 
-- Seuraavaksi latasin netcatin
+- Seuraavaksi latasin netcatin jolla voin suorittaa nc komentoja.
 <img width="1039" height="35" alt="image" src="https://github.com/user-attachments/assets/13192493-5ead-4d79-bddd-128bda667bea" />
 
 - Ja kirjoitan komennon tarkistaakseni että asiat toimii.
@@ -59,7 +59,11 @@
 
 ## Lopputiiviste ja pohdinta.
 
+- Tällä kertaa sain kaiken toimimaan ja oli kiva tehtävä. Välillä tulee kirjoitusvirheitä koska tykkään kertauksen takia kirjoittaa itse että komennot ja konfiguraatiot jää mieleen. Olen vielä aloittelija Linuxin käytössä mutta pikkuhiljaa alan ymmärtämään kokonaisuuksia jo ja jotkut komennot osaan jo ulkoa.
 
+## Lähteet.
+
+- Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port: https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
 
 
 

@@ -50,6 +50,15 @@
 - No tehdään tyhmä muutos gittiin.
 <img width="584" height="18" alt="image" src="https://github.com/user-attachments/assets/c9c6de23-c3da-4933-9430-9d483b095997" />
 <img width="594" height="294" alt="image" src="https://github.com/user-attachments/assets/c5bcccd1-d696-4575-94a1-f45b68285319" />
+<img width="660" height="190" alt="image" src="https://github.com/user-attachments/assets/fa3fb9a9-b235-433e-a9bd-c9d57aafc680" />
+<img width="638" height="190" alt="image" src="https://github.com/user-attachments/assets/e793b8d9-58ce-4cfd-99bc-b382ba668f18" />
+
+- No niin tyhmä muutos tehty ja poistettu.
+
+## 
+
+
+
 
 
 

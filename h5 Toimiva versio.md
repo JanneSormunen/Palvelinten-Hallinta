@@ -19,12 +19,12 @@
 - git pull vetää hakemistostasi kaikki ajantasaiset tiedostot, tee tämä aina enne pushia.
 - git push vie kaikki commitin muutokset github hakemistoon.
 
-## a) Online.
+## a) Tee uusi varasto Githubiin.
 
 - Aloitan tekemällä uuden varaston Githubiin.
 <img width="821" height="680" alt="image" src="https://github.com/user-attachments/assets/a62168e4-bf84-425f-a4a4-f05d94565837" />
 
-## b) Dolly.
+## b) Kloonaa varasto itsellesi.
 
 - Minulla on jo oman virtuaalikoneen julinen avain githubissa joten kloonaan vaan uuden hakemistovaraston terminaalin kautta.
 <img width="782" height="134" alt="image" src="https://github.com/user-attachments/assets/fc6c7ef6-cb6c-4315-96d6-74b81cd0d458" />
@@ -47,7 +47,7 @@
 
 ## c) Tee tyhmä muutos gittiin.
 
-- No tehdään tyhmä muutos gittiin.
+- No tehdään sitten tyhmä muutos gittiin!
 <img width="584" height="18" alt="image" src="https://github.com/user-attachments/assets/c9c6de23-c3da-4933-9430-9d483b095997" />
 <img width="594" height="294" alt="image" src="https://github.com/user-attachments/assets/c5bcccd1-d696-4575-94a1-f45b68285319" />
 <img width="660" height="190" alt="image" src="https://github.com/user-attachments/assets/fa3fb9a9-b235-433e-a9bd-c9d57aafc680" />
@@ -55,9 +55,31 @@
 
 - No niin tyhmä muutos tehty ja poistettu.
 
-## 
+## d) Tarkastele ja selitä varastosi logia.
 
+- Tein tämän osuuden jo aiemmin kun käytin git log --patch, mutta voin käydä kaikki log komennot läpi ja tehdä uuden log entryn.
+<img width="803" height="248" alt="image" src="https://github.com/user-attachments/assets/366bde7f-4513-4f98-bad8-3b80ee340291" />
+<img width="690" height="301" alt="image" src="https://github.com/user-attachments/assets/fce6114c-279c-47f7-85ed-6a03ec1cfb84" />
+<img width="806" height="362" alt="image" src="https://github.com/user-attachments/assets/76904b90-49c0-4121-890f-52616505be37" />
 
+- Niin kuin näkyy niin tuli uusi logiviesti sen jälkeen kun tein uuden tiedoston ja puskin sen githubiin.
+
+## e) Aja Salt-tiloja omasta varastostasi.
+
+- Testaan Saltia.
+<img width="1018" height="309" alt="image" src="https://github.com/user-attachments/assets/8c709e6d-e00e-4e40-becd-274546db01a8" />
+
+- Salt ei tunnistanut top-fileä joten state.apply komentoa suoritettiin epäonnistuneesti.
+
+## Lopputiiviste ja pohdinta.
+
+- Tässä tehtävässä loin uuden hakemistovaraston github verkkosivulle jonka yhdistin virtuaalikoneeseen kloonamalla web-sivun osoitteen avulla.
+- Ei ollut mitään epäselvää enkä jäänyt mihinkään jumiin, oli itse asiassa yllättävän hauskaa säätää esimerkkitiedostojen kanssa githubiin puskemista.
+
+## Lähteet.
+
+- Chacon and Straub 2014: 1.3 Getting Started - What is Git? https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+- Tero Karvisen Palvelinten hallinta kurssin pvm. 18.11.2025 tunnilla läpikäytyjä asioita.
 
 
 

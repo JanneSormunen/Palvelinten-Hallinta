@@ -31,5 +31,30 @@
 
 - Luon testitiedoston.
 <img width="580" height="24" alt="image" src="https://github.com/user-attachments/assets/24a50b7b-80ea-4550-9220-ca3f1c41f5b5" />
+<img width="574" height="155" alt="image" src="https://github.com/user-attachments/assets/7fc4e447-ebff-4613-99dd-47c9b212b70e" />
+
+- Sen jälkeen suoritan komennot git add . ja git commit.
+<img width="512" height="126" alt="image" src="https://github.com/user-attachments/assets/66a3ef49-8496-4040-9740-34bfddb18227" />
+<img width="700" height="190" alt="image" src="https://github.com/user-attachments/assets/1bee8c07-d919-4a67-a9cc-72f551833524" />
+
+- Nyt käyn katsomassa ilmestyikö tiedosto Githubiin.
+<img width="899" height="178" alt="image" src="https://github.com/user-attachments/assets/31b2fd61-2571-450a-98f8-cd965d740d06" />
+
+- Löytyi, katson sitten vielä logit.
+<img width="814" height="440" alt="image" src="https://github.com/user-attachments/assets/5798a878-9ca3-46ed-9ae1-02250c4ebcd6" />
+
+- Ja hyvältä näyttää!
+
+## c) Tee tyhmä muutos gittiin.
+
+- No tehdään tyhmä muutos gittiin.
+<img width="584" height="18" alt="image" src="https://github.com/user-attachments/assets/c9c6de23-c3da-4933-9430-9d483b095997" />
+<img width="594" height="294" alt="image" src="https://github.com/user-attachments/assets/c5bcccd1-d696-4575-94a1-f45b68285319" />
+
+
+
+
+
+
 
 
